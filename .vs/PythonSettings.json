@@ -1,3 +1,4 @@
 {
-  "Interpreter": "CondaEnv|CondaEnv|Miniconda3"
+  "Interpreter": "CondaEnv|CondaEnv|Miniconda3",
+  "TestFramework": "Pytest"
 }
